@@ -28,3 +28,4 @@ Want this moderation bot for your Discord server?
 Add me on Discord **`yeetle13`** to get set up!
 
 [🎬 Watch Demo Video](https://raw.githubusercontent.com/yeetle13/Discord-bot/main/demo.mp4)
+$15 per bot and an extra $10 if you want it set up for you
